@@ -15,6 +15,7 @@ Salary Insights: The project offers the ability to monitor salary trends over ti
 Tableau Visualization: Leveraging Tableau's powerful data visualization tools, the project showcases salary trends through interactive line graphs. These visualizations empower users to make data-driven decisions.
 
 Getting Started
+
 Clone this repository to your local machine.
 Execute the SQL scripts to set up the employee management database.
 Run the Python script to automate the extraction of employee data and CSV generation.
