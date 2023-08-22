@@ -1,4 +1,5 @@
 Employee Management System and Salary Insights
+
 Welcome to the Employee Management System and Salary Insights project repository! This project showcases the power of Python, SQL, and Tableau in creating an automated solution for managing employee data and gaining valuable salary insights.
 
 Project Overview
